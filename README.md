@@ -17,6 +17,7 @@ The project simulates the work of a data analyst in a bank’s AML compliance de
 - Data mining concepts
 - Data ethics and governance principles
 - Youtube Video https://youtu.be/Jow_3um7ICw?si=nY9h2-7eVTN_wFeS
+- Article: Was DOGE behavior unethical? https://www.linkedin.com/pulse/data-security-privacy-doge-behavior-unethical-mary-kane-rgdlc/
 
 ## 🔍 Key Steps
 1. Big data concepts and challenges analysis
