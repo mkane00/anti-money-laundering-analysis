@@ -13,11 +13,7 @@ This project supports a global bank’s anti-money-laundering (AML) compliance e
 ## 🗂️ Project Context
 The project simulates the work of a data analyst in a bank’s AML compliance department, supporting risk assessment and compliance reporting.
 
-## 🛠️ Tools & Technologies
-- Excel
-- Python (if applicable)
-- Predictive analysis techniques
-- Time-series analysis
+## 🛠️ Concepts of study
 - Data mining concepts
 - Data ethics and governance principles
 
