@@ -16,6 +16,7 @@ The project simulates the work of a data analyst in a bank’s AML compliance de
 ## 🛠️ Concepts of study
 - Data mining concepts
 - Data ethics and governance principles
+- Youtube Video https://youtu.be/Jow_3um7ICw?si=nY9h2-7eVTN_wFeS
 
 ## 🔍 Key Steps
 1. Big data concepts and challenges analysis
